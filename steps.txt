@@ -1,0 +1,3 @@
+1. fetch from https://pokeapi.co/api/v2/pokemon/
+2. loop through results and fetch each pokemon
+3. when user scrolls to bottom of page, 
